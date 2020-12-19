@@ -1,0 +1,22 @@
+{
+  "name": "assetcenter",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.10.2",
+    "bootstrap": "^4.1.3",
+    "react-bootstrap": "1.4.0",
+    "react-dom": "16.10.2",
+    "react-json-tree": "0.13.0",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
